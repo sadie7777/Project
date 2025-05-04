@@ -57,5 +57,5 @@ ScheduleManager/
 ## 기여 및 문의
 
 - 이 프로젝트는 개인 학습 및 포트폴리오용으로 제작되었습니다.
-- 질문이나 피드백이 있다면 [Issues](https://github.com/sadie7777/ScheduleManager/issues) 에 남겨주세요!
+- 질문이나 피드백이 있다면 [Issues](https://github.com/sadie7777/Project/issues) 에 남겨주세요!
 

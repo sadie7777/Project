@@ -26,10 +26,15 @@
 ## 폴더 구조
 
 ScheduleManager/
+
  ├── src/             # 소스코드 (.cpp, .h)
+ 
  ├── ui/              # UI 설계 파일 (.ui)
+ 
  ├── resources/       # 이미지/아이콘 리소스
+ 
  ├── README.md        # 프로젝트 설명 파일
+ 
  └── (기타 빌드 설정 파일)
 
 ---

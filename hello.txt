@@ -1,0 +1,1 @@
+hellogit config --global --add safe.directory /d/github/Project!
